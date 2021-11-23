@@ -1,2 +1,3 @@
-# abstract-designp-example-glang
-this is simple example for abstract design pattern with golang given from refactoring.guru
+###Install
+* for using this example just enter    go get -u github.com/khorasany/abstract-designp-example-glang    
+ 
